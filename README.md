@@ -1,2 +1,3 @@
 ## Welcome to my blog
-https://github.com/jiafujiang/blog/issues
+
+[blog](https://github.com/jiafujiang/blog/issues)
